@@ -7,7 +7,7 @@ export default defineConfig({
   },
   resolve: {
     alias: {
-      '@tbib-mindmap/core': path.resolve(__dirname, '../core/src/index.ts'),
+      '@tbib-mindmap-viewer/core': path.resolve(__dirname, '../core/src/index.ts'),
     },
   },
 });

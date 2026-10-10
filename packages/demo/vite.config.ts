@@ -6,8 +6,8 @@ export default defineConfig({
   plugins: [react()],
   resolve: {
     alias: {
-      '@tbib-mindmap/core': path.resolve(__dirname, '../core/src/index.ts'),
-      '@tbib-mindmap/react': path.resolve(__dirname, '../react/src/index.ts'),
+      '@tbib-mindmap-viewer/core': path.resolve(__dirname, '../core/src/index.ts'),
+      '@tbib-mindmap-viewer/react': path.resolve(__dirname, '../react/src/index.ts'),
     },
   },
 });

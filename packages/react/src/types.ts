@@ -3,7 +3,7 @@ import {
   TreeNode,
   LayoutType,
   NodeVariant,
-} from '@tbib-mindmap/core';
+} from '@tbib-mindmap-viewer/core';
 
 export interface MindmapHandle {
   zoomIn: () => void;

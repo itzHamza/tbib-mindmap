@@ -1,5 +1,5 @@
 {
-  "name": "@tbib-mindmap/core",
+  "name": "@tbib-mindmap-viewer/core",
   "version": "0.1.0",
   "description": "Framework-agnostic engine for markdown mindmaps and tree layouts",
   "main": "./dist/index.js",

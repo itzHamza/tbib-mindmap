@@ -5,7 +5,7 @@ import {
   MindmapHandle,
   LayoutType,
   NodeVariant,
-} from '@tbib-mindmap/react';
+} from '@tbib-mindmap-viewer/react';
 
 const SAMPLE_MARKDOWN = `# Insuffisance Cardiaque
 ## 1. Définition & Physiopathologie

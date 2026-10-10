@@ -1,5 +1,5 @@
 {
-  "name": "@tbib-mindmap/react",
+  "name": "@tbib-mindmap-viewer/react",
   "version": "0.1.0",
   "description": "React interactive component and controls for TBiB Mindmap",
   "main": "./dist/index.js",
@@ -26,7 +26,7 @@
     "react-dom": ">=18.0.0"
   },
   "dependencies": {
-    "@tbib-mindmap/core": "^0.1.0"
+    "@tbib-mindmap-viewer/core": "^0.1.0"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",

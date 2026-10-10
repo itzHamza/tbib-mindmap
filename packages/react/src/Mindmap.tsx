@@ -18,7 +18,7 @@ import {
   DEPTH_INLINE_STYLES_DARK,
   STROKE_TOKENS,
   GLASS_TOKENS,
-} from '@tbib-mindmap/core';
+} from '@tbib-mindmap-viewer/core';
 import { motion, AnimatePresence } from 'framer-motion';
 import { MindmapHandle, MindmapProps } from './types';
 
