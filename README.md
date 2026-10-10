@@ -3,8 +3,11 @@
 [![npm version (react)](https://img.shields.io/npm/v/@tbib-mindmap-viewer/react.svg?color=6366f1&label=react)](https://www.npmjs.com/package/@tbib-mindmap-viewer/react)
 [![npm version (core)](https://img.shields.io/npm/v/@tbib-mindmap-viewer/core.svg?color=6366f1&label=core)](https://www.npmjs.com/package/@tbib-mindmap-viewer/core)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-tbib--mindmap.vercel.app-000000?style=flat&logo=vercel)](https://tbib-mindmap.vercel.app/)
 
 An open-source, high-performance, interactive **Markdown Mindmap Viewer & Tree Layout Engine** for React and modern web applications.
+
+👉 **[Experience the Live Interactive Demo](https://tbib-mindmap.vercel.app/)**
 
 Transform standard Markdown headings and nested bullet lists into beautiful, expandable mindmaps with 60fps GPU-accelerated pan & zoom, mobile multi-touch gestures, and high-resolution SVG & PDF exports.
 
