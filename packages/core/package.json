@@ -1,6 +1,6 @@
 {
   "name": "@tbib-mindmap-viewer/core",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Framework-agnostic engine for markdown mindmaps and tree layouts",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -22,7 +22,7 @@
     "test:watch": "vitest"
   },
   "dependencies": {
-    "jspdf": "^2.5.2",
+    "jspdf": "^4.2.1",
     "remark-parse": "^11.0.0",
     "unified": "^11.0.5"
   },
